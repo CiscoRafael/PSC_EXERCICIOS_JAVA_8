@@ -1,3 +1,4 @@
+# PSC - Exercícios - Empregado
 Implemente uma classe Empregado com os seguintes atributos: nome, idade e salario. Crie os métodos promover(), aumentarSalario(), demitir() e fazerAniversario() com as seguintes regras:
 Regras dos Métodos:
 Todos os atributos devem ser privados e os métodos públicos.
