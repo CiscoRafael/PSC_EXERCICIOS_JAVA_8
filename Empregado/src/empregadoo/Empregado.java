@@ -8,7 +8,6 @@ public class Empregado{
         setIdade(idade);
         setSalario(salario);
     }
-    Empregado(){}
     
     public String getNome(){
         return nome;
